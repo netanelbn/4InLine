@@ -15,12 +15,6 @@ public class Connect4 {
         Scanner scanner;
         
         
-        
-        
-        
-        
-        
-        
         while(true){
             printOutput();
             if(checkFull()){
